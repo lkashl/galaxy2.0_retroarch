@@ -20,14 +20,17 @@ Currently it integrates with Retroarch playlist files to integrate GOG 2.0 but i
 
 ![image](https://user-images.githubusercontent.com/13351116/67159839-b989c000-f395-11e9-8f9d-6e644822b1a9.png)
 
+![image](https://user-images.githubusercontent.com/13351116/67160424-3d46ab00-f39c-11e9-93ac-9bfcc697d230.png)
+
+
 SNES is configured as the default platform as an example, however this can easily be changed. See [Configuration](#configuration) for more instructions
 
 ## Currently supported functionality:
 
-| Platform  | Tested | Known Issues | Library | Achievements |
+| Platform  | Tested | Known Issues | Library | Launch Game |
 | ------------- | ------------- |-------------|------------- | -------------|
-| SNES  | :white_check_mark: | :negative_squared_cross_mark: | :white_check_mark:  | :negative_squared_cross_mark: |
-| SMS  | :white_check_mark: | :negative_squared_cross_mark: | :white_check_mark:  | :negative_squared_cross_mark: |
+| SNES  | :white_check_mark: | :negative_squared_cross_mark: | :white_check_mark:  | :white_check_mark: |
+| SMS  | :white_check_mark: | :negative_squared_cross_mark: | :white_check_mark:  | :white_check_mark: |
 
 - User libraries
 
