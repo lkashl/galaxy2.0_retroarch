@@ -1,0 +1,16 @@
+{
+    "retroarch_root": "C:\\Games\\RetroArch\\",
+    "retroarch_dir": "C:\\Games\\RetroArch\\playlists",
+    "retroarch_playlist": "Nintendo - Super Nintendo Entertainment System.lpl",
+    "localisation": {
+        "points_if_present": ["(usa)", "(europe)", "(world)"],
+        "must_be_present": [],
+
+        "points_if_absent": [],
+        "must_not_be_present": []
+    },
+    "titles": {
+        "must_be_present": [],
+        "must_not_be_present": ["(japan)", "beta", "rev", "sample", "demo", "promo"]
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Galaxy Files Launcher",
+    "platform": "snes",
+    "guid": "bff63bed-7284-4f5a-a2d8-a3bf15b3b0d9",
+    "version": "0.1",
+    "description": "Generic file plugin, currently supports retrieving games from retroarch",
+    "author": "Kash",
+    "email": "lkashl.gd@gmail.com",
+    "url": "https://github.com/lkashl/galaxy2.0_retroarch",
+    "update_url": "https://github.com/lkashl/galaxy2.0_retroarch",
+    "script": "plugin.py"
+}
